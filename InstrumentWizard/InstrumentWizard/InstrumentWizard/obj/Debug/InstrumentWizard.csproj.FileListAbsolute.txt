@@ -1,0 +1,9 @@
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\bin\Debug\InstrumentWizard.exe.config
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\bin\Debug\InstrumentWizard.exe
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\bin\Debug\InstrumentWizard.pdb
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.csprojAssemblyReference.cache
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.Properties.Resources.resources
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.csproj.GenerateResource.cache
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.csproj.CoreCompileInputs.cache
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.exe
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.pdb
