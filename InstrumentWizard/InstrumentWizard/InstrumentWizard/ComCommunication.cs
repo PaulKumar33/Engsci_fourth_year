@@ -13,10 +13,16 @@ namespace InstrumentWizard
     {
         public static SerialPort port;
         public static String[] COMPorts;
+
+        public static bool connectionBool;
+
+
         public ComCommunication()
         {
             //init the port as null
             port = null;
+            connectionBool = true;
+
         }
 
         public int ComportList()
@@ -25,6 +31,7 @@ namespace InstrumentWizard
             if(COMPorts.Length != 0)
             {
                 Console.WriteLine("Ports available");
+
                 foreach(string _port in COMPorts)
                 {
                     Console.WriteLine(port);
@@ -37,6 +44,23 @@ namespace InstrumentWizard
                 return 0;
             }
             
+        }
+
+        public void ConnectionTest()
+        {
+            try
+            {
+                SerialPort sp = new SerialPort("COM4", 9600, Parity.None,
+                    8, StopBits.One);
+                port = sp;
+
+                Console.WriteLine("Connection made to comport: COM4");
+                connectionBool = true;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Exception thrown");
+            }
         }
 
         public void Connect(SerialPort connectPort, Int32 baudRate, bool dtrEnable,
@@ -53,11 +77,25 @@ namespace InstrumentWizard
             port.Open();
         }
 
-        public 
+        public void ReadIO()
+        {
+            //while ()
+        }
+
+
+
+        //*************************EVENT HANDLERS*************************//
+        private void eDataRecieved(object sender, SerialDataReceivedEventArgs e)
+        {
+            Console.WriteLine();
+        }
+
+        private void eExceptionHandle()
+        {
+
+        }
     }
 
-    public void ReadIO()
-    {
-        while()
-    }
+
+    
 }

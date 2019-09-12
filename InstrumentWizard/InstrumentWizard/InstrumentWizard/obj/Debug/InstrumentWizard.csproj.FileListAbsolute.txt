@@ -7,3 +7,6 @@ C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repo
 C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.csproj.CoreCompileInputs.cache
 C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.exe
 C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.pdb
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\bin\Debug\NAudio.dll
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\bin\Debug\NAudio.xml
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\InstrumentWizard\InstrumentWizard\obj\Debug\InstrumentWizard.csproj.CopyComplete
