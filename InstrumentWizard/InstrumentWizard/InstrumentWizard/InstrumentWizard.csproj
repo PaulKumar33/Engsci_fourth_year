@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="CameraAccess.cs" />
     <Compile Include="ComCommunication.cs" />
+    <Compile Include="Matplot.cs" />
     <Compile Include="Microphone.cs" />
     <Compile Include="MainPanel.cs">
       <SubType>Form</SubType>

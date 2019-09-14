@@ -1,0 +1,11 @@
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\bin\Debug\netcoreapp2.0\COMTest.deps.json
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\bin\Debug\netcoreapp2.0\COMTest.runtimeconfig.json
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\bin\Debug\netcoreapp2.0\COMTest.runtimeconfig.dev.json
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\bin\Debug\netcoreapp2.0\COMTest.dll
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\obj\Debug\netcoreapp2.0\COMTest.csprojAssemblyReference.cache
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\obj\Debug\netcoreapp2.0\COMTest.csproj.CoreCompileInputs.cache
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\obj\Debug\netcoreapp2.0\COMTest.AssemblyInfoInputs.cache
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\obj\Debug\netcoreapp2.0\COMTest.AssemblyInfo.cs
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\bin\Debug\netcoreapp2.0\COMTest.pdb
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\obj\Debug\netcoreapp2.0\COMTest.dll
+C:\Users\paulk\OneDrive - University of Toronto\engsci 1t9\year 4 fall\code_repos\InstrumentWizard\test_code\COMTest\COMTest\obj\Debug\netcoreapp2.0\COMTest.pdb
